@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Small organic molecules' potentials modelling in different solvents',
+    description='Small organic molecules' potentials modelling',
     author='Maxim Smirnov',
     license='MIT',
 )
