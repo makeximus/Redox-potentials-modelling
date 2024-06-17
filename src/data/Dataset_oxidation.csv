@@ -1,0 +1,326 @@
+,name,smiles,solvent_ox_smiles,reference electrode,label,E_ox,E_ox_adj,E_ox_adj_mean
+0,Toluene ,Cc1ccccc1,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,2.36,2.36,2.216333333333333
+1,o-Xylene ,Cc1ccccc1C,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,2.22,2.22,2.0063333333333335
+2,m-Xylene ,Cc1cccc(C)c1,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,2.22,2.22,2.093
+3,Mesitylene ,Cc1cc(C)cc(C)c1,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,2.07,2.07,1.9029999999999998
+4,Naphthalene ,c1ccc2ccccc2c1,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,1.64,1.64,1.6440000000000001
+5,Phenylacetylene ,C#Cc1ccccc1,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,2.27,2.27,2.2595
+6,Diphenylacetylene ,c1ccc(cc1)C#Cc2ccccc2,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,1.84,1.84,1.84
+7,1-ethynyl-4-methoxybenzene ,COc1ccc(cc1)C#C,CC#N,SCE,Aromatic Hydrocarbons and Alkynes,1.65,1.65,1.65
+9,Cyclohexene,C1CCC=CC1,CC#N,SCE,Alkenes,2.37,2.37,2.37
+10,Cyclopentene,C1CC=CC1,CC#N,SCE,Alkenes,2.32,2.32,2.32
+11,Norbornene,C1CC2CC1C=C2,CC#N,SCE,Alkenes,2.22,2.22,2.22
+12,3-Methyl-2-buten-1-ol,CC(C)=CCO,CC#N,SCE,Alkenes,2.1,2.1,2.1
+13,"2,4-Dimethyl-1,3-pentadiene",CC(C)=CC(C)=C,CC#N,SCE,Alkenes,1.98,1.98,1.98
+14,2-Methyl-2-butene,CC=C(C)C,CC#N,SCE,Alkenes,1.98,1.98,1.98
+15,Styrene,C=Cc1ccccc1,CC#N,SCE,Alkenes,1.97,1.97,1.97
+16,1-Methylcyclohexene,CC1=CCCCC1,CC#N,SCE,Alkenes,1.94,1.94,1.94
+17,3-Bromo-trans--methylstyrene,C/C=C/c1cccc(Br)c1,CC#N,SCE,Alkenes,1.92,1.92,1.92
+18,-Methylstyrene,CC(=C)c1ccccc1,CC#N,SCE,Alkenes,1.91,1.91,1.91
+19,3-Chloro-trans--methylstyrene,C/C=C/c1cccc(Cl)c1,CC#N,SCE,Alkenes,1.89,1.89,1.89
+20,Methyl-(E)-4-(prop-1-enyl)benzoate,COC(=O)c1ccc(\C=C\C)cc1,CC#N,SCE,Alkenes,1.94,1.94,1.94
+21,1-Methylcyclopentene,CC1=CCCC1,CC#N,SCE,Alkenes,1.75,1.75,1.75
+22,4-Bromo-trans--methylstyrene,C/C=C/c1ccc(Br)cc1,CC#N,SCE,Alkenes,1.75,1.75,1.75
+23,trans--methylstyrene,C/C=C/c1ccccc1,CC#N,SCE,Alkenes,1.74,1.74,1.74
+24,3-Methyl-trans--methylstyrene,C/C=C/c1cccc(C)c1,CC#N,SCE,Alkenes,1.73,1.73,1.73
+25,4-Chloro-trans--methylstyrene,C/C=C/c1ccc(Cl)cc1,CC#N,SCE,Alkenes,1.73,1.73,1.73
+26,4-Fluoro-trans--methylstyrene,C/C=C/c1ccc(F)cc1,CC#N,SCE,Alkenes,1.71,1.71,1.71
+27,2-Methyl-trans-methylstyrene,C/C=C/c1ccccc1C,CC#N,SCE,Alkenes,1.7,1.7,1.7
+28,"1,3-Di(1-propenylbenzene)",CC=Cc1cccc(C=CC)c1,CC#N,SCE,Alkenes,1.66,1.66,1.66
+29,Indene,C1C=Cc2ccccc12,CC#N,SCE,Alkenes,1.66,1.66,1.66
+30,4-tert-Butyl-trans--methylstyrene,C/C=C/c1ccc(cc1)C(C)(C)C,CC#N,SCE,Alkenes,1.65,1.65,1.65
+31,1-Phenylcyclohexene,C1CCC(=CC1)c2ccccc2,CC#N,SCE,Alkenes,1.64,1.64,1.64
+32,"1,2-Di(1-propenylbenzene)",CC=Cc1ccccc1C=CC,CC#N,SCE,Alkenes,1.64,1.64,1.64
+33,3-Methoxy-trans--methylstyrene,COc1cccc(\C=C\C)c1,CC#N,SCE,Alkenes,1.6,1.6,1.6
+34,4-Methyl-trans-methylstyrene,C/C=C/c1ccc(C)cc1,CC#N,SCE,Alkenes,1.59,1.59,1.59
+35,"1,3-Cyclohexadiene",C1CC=CC=C1,CC#N,SCE,Alkenes,1.54,1.54,1.54
+36,"1,2-Diphenylethylene",C=C(c1ccccc1)c2ccccc2,CC#N,SCE,Alkenes,1.54,1.54,1.54
+37,2-Methoxy-trans--methylstyrene,COc1ccccc1\C=C\C,CC#N,SCE,Alkenes,1.48,1.48,1.48
+38,"1,4-Di(1-propenylbenzene)",CC=Cc1ccc(C=CC)cc1,CC#N,SCE,Alkenes,1.43,1.43,1.43
+40,trans-Anethol,COc1ccc(\C=C\C)cc1,CC#N,SCE,Alkenes,1.24,1.24,1.24
+41,"3,4-Dimethoxystyrene",COc1ccc(C=C)cc1OC,CC#N,SCE,Alkenes,1.15,1.15,1.15
+42,Isosafrole,C/C=C/c1ccc2OCOc2c1,CC#N,SCE,Alkenes,1.15,1.15,1.15
+43,4-Cyanophenol,Oc1ccc(cc1)C#N,CC#N,SCE,Phenols,2.08,2.08,2.08
+44,4-Bromophenol,Oc1ccc(Br)cc1,CC#N,SCE,Phenols,1.69,1.69,1.69
+45,Phenol,Oc1ccccc1,CC#N,SCE,Phenols,1.63,1.63,1.4995
+46,"3,4-Dimethylphenol",Cc1ccc(O)cc1C,CC#N,SCE,Phenols,1.43,1.43,1.43
+47,Guaiacol,COc1ccccc1O,CC#N,SCE,Phenols,1.41,1.41,1.41
+48,2-Naphthol,Oc1ccc2ccccc2c1,CC#N,SCE,Phenols,1.4,1.4,1.4
+49,"2,4,6-Trimethylphenol",Cc1cc(C)c(O)c(C)c1,CC#N,SCE,Phenols,1.35,1.35,1.35
+50,4-Methoxyphenol,COc1ccc(O)cc1,CC#N,SCE,Phenols,1.17,1.17,1.17
+51,Hydroquinone,Oc1ccc(O)cc1,CC#N,SCE,Phenols,1.14,1.14,1.14
+52,"1,4-Dioxane",C1COCCO1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",2.5,2.5,2.3695
+53,Diphenyl ether,O(c1ccccc1)c2ccccc2,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.88,1.88,1.88
+54,Anisole,COc1ccccc1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.81,1.81,1.7545
+55,"3,4-Dihydro-2H-pyran",C1COC=CC1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.51,1.51,1.51
+56,m-Dimethoxybenzene,COc1cccc(OC)c1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.5,1.5,1.4395
+57,"1,3-Di(iso-propoxy)benzene",CC(C)Oc1cccc(OC(C)C)c1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.47,1.47,1.47
+58,o-Dimethoxybenzene,COc1ccccc1OC,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.43,1.43,1.4394999999999998
+59,2-Methoxynaphthalene,COc1ccc2ccccc2c1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.32,1.32,1.32
+60,p-Dimethoxybenzene,COc1ccc(OC)cc1,CC#N,SCE,"Aliphatic, Aryl, and Enol Ethers",1.3,1.3,1.2845
+61,"1,8-Diazabicyclo[5.4.0]undec-7-ene",C1CCN2CCCN=C2CC1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",1.28,1.28,1.28
+62,Diisopropylamine,CC(C)NC(C)C,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",1.09,1.09,1.1795
+63,Aniline,Nc1ccccc1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.95,0.95,0.9595
+64,Piperidine,C1CCNCC1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.94,0.94,1.0295
+65,Diphenylamine,N(c1ccccc1)c2ccccc2,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.92,0.92,0.92
+66,Pyrrolidine,[H+].[Cl-].C1CCNC1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.89,0.89,0.89
+67,N-Phenylmorpholine,C1CN(CCO1)c2ccccc2,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.88,0.88,0.88
+68,m-Anisidine,COc1cccc(N)c1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.86,0.86,0.86
+69,"2,6-Di(iso-propyl)aniline",CC(C)c1cccc(C(C)C)c1N,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.84,0.84,0.84
+70,p-Toluidine,Cc1ccc(N)cc1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.81,0.81,0.81
+71,Triethylamine,CCN(CC)CC,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.83,0.83,0.9445000000000001
+72,"N,N-Dimethylaniline",CN(C)c1ccccc1,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.74,0.74,0.7995000000000001
+73,1-Morpholinocyclohexene,C1CCC(=CC1)N2CCOCC2,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.54,0.54,0.54
+74,o-Phenylenediamine,Nc1ccccc1N,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.48,0.48,0.48
+75,1-Cyclohex-1-enylpyrrolidine,C1CCC(=CC1)N2CCCC2,CC#N,SCE,"Aliphatic and Aryl Amines, and Enamines",0.32,0.32,0.32
+84,Pyrazole,[nH]1cccn1,CC#N,SCE,Aromatic Heterocycles,2.21,2.21,2.21
+85,Quinoline,c1ccc2ncccc2c1,CC#N,SCE,Aromatic Heterocycles,2.14,2.14,2.14
+86,Furan,o1cccc1,CC#N,SCE,Aromatic Heterocycles,1.94,1.94,1.94
+87,"2,3-Benzofuran",o1ccc2ccccc12,CC#N,SCE,Aromatic Heterocycles,1.74,1.74,1.74
+88,Furfurylalcohol,OCc1occc1,CC#N,SCE,Aromatic Heterocycles,1.73,1.73,1.73
+90,Indole,[nH]1ccc2ccccc12,CC#N,SCE,Aromatic Heterocycles,1.16,1.16,1.16
+91,Imidazole,[nH]1ccnc1,CC#N,SCE,Aromatic Heterocycles,1.15,1.15,1.15
+93,N-Methylpyrrole,Cn1cccc1,CC#N,SCE,Aromatic Heterocycles,1.04,1.04,1.04
+94,5-Methoxyindole,COc1ccc2[nH]ccc2c1,CC#N,SCE,Aromatic Heterocycles,1.04,1.04,1.04
+96,4-Methoxyindole,COc1cccc2[nH]ccc12,CC#N,SCE,Aromatic Heterocycles,0.97,0.97,0.97
+98,6-Methoxyindole,COc1ccc2cc[nH]c2c1,CC#N,SCE,Aromatic Heterocycles,0.92,0.92,0.92
+102,Iodobenzene,Ic1ccccc1,CC#N,SCE,Alkyl and Aryl Halides,2.17,2.17,2.17
+103,1-Chloro-4-iodobenzene,Clc1ccc(I)cc1,CC#N,SCE,Alkyl and Aryl Halides,2.15,2.15,2.15
+104,1-Bromo-4-iodobenzene,Brc1ccc(I)cc1,CC#N,SCE,Alkyl and Aryl Halides,2.1,2.1,2.1
+105,p-Anisaldehyde,COc1ccc(C=O)cc1,CC#N,SCE,Aldehydes,2.06,2.06,2.06
+106,p-Hydroxybenzaldehyde,Oc1ccc(C=O)cc1,CC#N,SCE,Aldehydes,1.95,1.95,1.95
+107,Benzaldoxime,O/N=C/c1ccccc1,CC#N,SCE,"Imines, Oximes, and Hydrazones",1.86,1.86,1.86
+108,N-(phenylmethylene)benzenamine,c1ccc(cc1)/C=N/c2ccccc2,CC#N,SCE,"Imines, Oximes, and Hydrazones",1.67,1.67,1.67
+109,4-fluoro-N-(phenylmethylene)aniline,Fc1ccc(cc1)/N=C/c2ccccc2,CC#N,SCE,"Imines, Oximes, and Hydrazones",1.64,1.64,1.64
+110,3-methoxy-N-(phenylmethylene)aniline,c1c(OC)cc(cc1)/N=C/c2ccccc2,CC#N,SCE,"Imines, Oximes, and Hydrazones",1.52,1.52,1.52
+111,4-methyl-N-(phenylmethylene)aniline,Cc1ccc(cc1)/N=C/c2ccccc2,CC#N,SCE,"Imines, Oximes, and Hydrazones",1.5,1.5,1.5
+112,Benzaldehydediphenylhydrazone,c1ccc(cc1)C=NN(c2ccccc2)c3ccccc3,CC#N,SCE,"Imines, Oximes, and Hydrazones",0.97,0.97,0.97
+114,"N,N-Dimethylformamide",CN(C)C=O,CC#N,SCE,Amides and Carboxylates,2.26,2.26,2.2744999999999997
+115,"1,3-Dimethyl-3,4,5,6-tetrahydro2(1H)-pyrimidone",CN1CCCN(C)C1=O,CC#N,SCE,Amides and Carboxylates,1.55,1.55,1.55
+116,Tetrabutylammoniumpivalate,CCCC[N+](CCCC)(CCCC)CCCC.CC(C)(C)C([O-])=O,CC#N,SCE,Amides and Carboxylates,1.26,1.26,1.26
+117,Tetrabutylammoniumbenzoate,CCCC[N+](CCCC)(CCCC)CCCC.[O-]C(=O)c1ccccc1,CC#N,SCE,Amides and Carboxylates,1.4,1.4,1.4
+118,Tetrabutylammoniumacetate,CCCC[N+](CCCC)(CCCC)CCCC.CC([O-])=O,CC#N,SCE,Amides and Carboxylates,1.47,1.47,1.47
+124,TetrabutylammoniumIodide,[I-].CCCC[N+](CCCC)(CCCC)CCCC,CC#N,SCE,"Nitro compounds, Organosilanes, Halides",0.26,0.26,0.26
+125,TetrabutylammoniumBromide,[Br-].CCCC[N+](CCCC)(CCCC)CCCC,CC#N,SCE,"Nitro compounds, Organosilanes, Halides",0.71,0.71,0.71
+126,TetrabutylammoniumChloride,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CC#N,SCE,"Nitro compounds, Organosilanes, Halides",1.01,1.01,1.01
+134,,C1C2CC12,CC#N,NHE,alkane,1.93,1.689,1.689
+135,,CC12CC1C2,CC#N,NHE,alkane,1.71,1.4689999999999999,1.4689999999999999
+136,,CC12CC1(C)C2,CC#N,NHE,alkane,1.34,1.0990000000000002,1.0990000000000002
+137,,CC2(C)C1CC12,CC#N,NHE,alkane,1.8,1.5590000000000002,1.5590000000000002
+138,,CC2(C)C1CC12C,CC#N,NHE,alkane,1.51,1.2690000000000001,1.2690000000000001
+139,,CC1(C)C2(C)CC12C,CC#N,NHE,alkane,1.27,1.029,1.029
+140,,CC1(C)C2C1C2(C)C,CC#N,NHE,alkane,1.81,1.569,1.569
+141,,CC2(C)C1C(C)(C)C12C,CC#N,NHE,alkane,1.44,1.1989999999999998,1.1989999999999998
+142,,CC1(C)C2(C)C(C)(C)C12C,CC#N,NHE,alkane,1.17,0.9289999999999999,0.9289999999999999
+143,,C1CCC1,CC#N,NHE,alkane,2.15,1.9089999999999998,1.9089999999999998
+144,,C1C3CC2C1C2C3,CC#N,NHE,alkane,2.36,2.1189999999999998,2.1189999999999998
+145,,C1CC2C3C(C1)C23,CC#N,NHE,alkane,1.74,1.499,1.499
+146,,C14C5C2C1C3C2C3C45,CC#N,NHE,alkane,1.78,1.5390000000000001,1.5390000000000001
+147,,C1C2C4C5C1C3C2C3C45,CC#N,NHE,alkane,1.86,1.6190000000000002,1.6190000000000002
+148,,C1CC2C5C4C1C3C2C3C45,CC#N,NHE,alkane,1.78,1.5390000000000001,1.5390000000000001
+149,,C2C1C3C1C4C2C34,CC#N,NHE,alkane,1.15,0.9089999999999999,0.9089999999999999
+150,,C12C3C4C1C5C2C3C45,CC#N,NHE,alkane,1.97,1.729,1.729
+151,,C1C2C3C4C1C5C2C3C45,CC#N,NHE,alkane,1.98,1.7389999999999999,1.7389999999999999
+158,2-butene,C(=CC)C,CC#N,NHE,alkene,2.72,2.479,2.479
+159,,C=C(C)CC,CC#N,NHE,alkene,2.48,2.239,2.239
+160,,C=CC=C,CC#N,NHE,alkene,2.54,2.299,2.299
+161,,C=C(C)C(=C)C,CC#N,NHE,alkene,2.35,2.109,2.109
+164,2-Octene,CCCCCC=CC,CC#N,NHE,alkene,2.74,2.499,2.499
+165,styrene,c1ccccc1C=C,CC#N,NHE,alkene,2.14,1.899,1.899
+166,,C=C(C)c1ccccc1,CC#N,NHE,alkene,2.0,1.759,1.759
+167,,C1=CCCCC1,CC#N,NHE,alkene,2.49,2.249,2.249
+168,,C1=CCC=CC1,CC#N,NHE,alkene,2.11,1.8689999999999998,1.8689999999999998
+169,,C1=CCCC=C1,CC#N,NHE,alkene,1.74,1.499,1.499
+170,,C1=CC2C=CC1C2,CC#N,NHE,alkene,1.8,1.5590000000000002,1.5590000000000002
+171,,C1=CC2CCC1C2,CC#N,NHE,alkene,2.19,1.9489999999999998,1.9489999999999998
+172,Benzene ,c1ccccc1,CC#N,NHE,aromatic hydrocarbon,2.65,2.409,2.3545
+173,p-Xylene ,Cc1ccc(C)cc1,CC#N,NHE,aromatic hydrocarbon,2.13,1.8889999999999998,1.8295
+174,Ethylbenzene ,CCc1ccccc1,CC#N,NHE,aromatic hydrocarbon,2.53,2.2889999999999997,2.2889999999999997
+175,Propylbenzene ,CCCc1ccccc1,CC#N,NHE,aromatic hydrocarbon,2.54,2.299,2.299
+176,Isopropylbenzene,CC(C)c1ccccc1,CC#N,NHE,aromatic hydrocarbon,2.45,2.209,2.209
+177,t-Butylbenzene ,CC(C)(C)c1ccccc1,CC#N,NHE,aromatic hydrocarbon,2.44,2.199,2.199
+178,Cyclohexylbenzene ,C1CCC(CC1)c2ccccc2,CC#N,NHE,aromatic hydrocarbon,2.43,2.189,2.189
+179,,Cc1cccc(C)c1C,CC#N,NHE,aromatic hydrocarbon,2.16,1.919,1.919
+180,,Cc1ccc(C)c(C)c1,CC#N,NHE,aromatic hydrocarbon,2.14,1.899,1.899
+181,,Cc1cc(C)c(C)c(C)c1,CC#N,NHE,aromatic hydrocarbon,2.07,1.8289999999999997,1.8289999999999997
+182,,Cc1cc(C)c(C)cc1C,CC#N,NHE,aromatic hydrocarbon,1.8,1.5590000000000002,1.5590000000000002
+183,,Cc1cc(C)c(C)c(C)c1C,CC#N,NHE,aromatic hydrocarbon,1.79,1.549,1.549
+184,,Cc1c(C)c(C)c(C)c(C)c1C,CC#N,NHE,aromatic hydrocarbon,1.71,1.4689999999999999,1.4689999999999999
+185,,c2ccc(C1CC1)cc2,CC#N,NHE,aromatic hydrocarbon,2.08,1.839,1.839
+186,,Cc2ccc(C1CC1)cc2,CC#N,NHE,aromatic hydrocarbon,1.83,1.589,1.589
+187,,CC1CC1c2ccccc2,CC#N,NHE,aromatic hydrocarbon,1.91,1.669,1.669
+188,,C[C@H]1C[C@H]1c2ccccc2 ,CC#N,NHE,aromatic hydrocarbon,1.93,1.689,1.689
+189,,C[C@H]1C[C@@H]1c2ccccc2,CC#N,NHE,aromatic hydrocarbon,1.99,1.749,1.749
+190,,Cc2cc(C1CC1)cc(C)c2C,CC#N,NHE,aromatic hydrocarbon,1.91,1.669,1.669
+191,,c2ccc1CCCc1c2,CC#N,NHE,aromatic hydrocarbon,2.16,1.919,1.919
+192,,c2ccc1CCCCc1c2,CC#N,NHE,aromatic hydrocarbon,2.14,1.899,1.899
+193,,C2=Cc1ccccc1C2,CC#N,NHE,aromatic hydrocarbon,1.82,1.5790000000000002,1.5790000000000002
+194,,c2ccc1cccc1cc2,CC#N,NHE,aromatic hydrocarbon,1.18,0.939,0.939
+195,,c2ccc(c1ccccc1)cc2,CC#N,NHE,aromatic hydrocarbon,2.19,1.9489999999999998,1.9489999999999998
+196,,c2ccc1ccccc1c2,CC#N,NHE,aromatic hydrocarbon,1.85,1.609,1.609
+197,,Cc1cccc2ccccc12,CC#N,NHE,aromatic hydrocarbon,1.69,1.4489999999999998,1.4936666666666667
+198,,Cc2ccc1ccccc1c2,CC#N,NHE,aromatic hydrocarbon,1.67,1.4289999999999998,1.4289999999999998
+199,,Cc2cc1ccccc1cc2C,CC#N,NHE,aromatic hydrocarbon,1.59,1.3490000000000002,1.3490000000000002
+200,,Cc2ccc1cc(C)ccc1c2,CC#N,NHE,aromatic hydrocarbon,1.6,1.359,1.359
+201,,c1cc2cccc3ccc(c1)c23,CC#N,NHE,aromatic hydrocarbon,1.52,1.279,1.279
+202,n-Propylamine,CCCN,CC#N,NHE,amine,1.63,1.3889999999999998,1.3889999999999998
+203,Diethylamine,CCNCC,CC#N,NHE,amine,1.52,1.279,1.279
+204,n-Butylamine,CCCCN,CC#N,NHE,amine,1.63,1.3889999999999998,1.3889999999999998
+205,i-Butylamine,CC(C)CN,CC#N,NHE,amine,1.62,1.379,1.379
+206,t-Butylamine,CC(C)(C)N,CC#N,NHE,amine,1.64,1.399,1.399
+207,n-Pentylamine,CCCCCN,CC#N,NHE,amine,1.69,1.4489999999999998,1.4489999999999998
+208,n-Nonylamine,CCCCCCCCCN,CC#N,NHE,amine,1.72,1.479,1.479
+209,Di-n-propylamine,CCCNCCC,CC#N,NHE,amine,1.43,1.189,1.189
+210,Di-n-butylamine,CCCCNCCCC,CC#N,NHE,amine,1.38,1.1389999999999998,1.1389999999999998
+211,Di-sec-butylamine,CCC(C)NC(C)CC,CC#N,NHE,amine,1.4,1.1589999999999998,1.1589999999999998
+212,Trimethylamine,CN(C)C,CC#N,NHE,amine,1.29,1.049,1.049
+213,Tri-n-propylamine,CCCN(CCC)CCC,CC#N,NHE,amine,1.02,0.779,0.779
+214,,CN(C)CC#N,CC#N,NHE,amine,1.59,1.3490000000000002,1.3490000000000002
+215,,C1CCNC1,CC#N,NHE,amine,1.09,0.8490000000000001,0.8490000000000001
+216,,COc1ccc(N)cc1,CC#N,NHE,amine,0.83,0.589,0.589
+217,,Nc1ccc(Cl)cc1,CC#N,NHE,amine,1.17,0.9289999999999999,0.9289999999999999
+218,,Nc1ccc(N(=O)=O)cc1,CC#N,NHE,amine,1.6,1.359,1.359
+219,,CN(C)Cc1ccccc1,CC#N,NHE,amine,1.24,0.999,0.999
+220,,CNc1ccccc1,CC#N,NHE,amine,1.14,0.8989999999999999,0.8989999999999999
+221,,CN(C)c1ccc(N(=O)=O)cc1,CC#N,NHE,amine,1.52,1.279,1.279
+222,,CCNc1ccccc1,CC#N,NHE,amine,1.16,0.9189999999999999,0.9189999999999999
+223,,Cc1cc(C)c(C)c(N)c1C,CC#N,NHE,amine,0.91,0.669,0.669
+224,,CN(C)c1ccc(N(C)C)cc1,CC#N,NHE,amine,0.41,0.16899999999999998,0.16899999999999998
+225,,CN(C)c1cccc(N(C)C)c1,CC#N,NHE,amine,0.83,0.589,0.589
+226,,CN(C)c1ccccc1N(C)C,CC#N,NHE,amine,0.79,0.549,0.549
+227,,COc1cccc(N(C)C)c1,CC#N,NHE,amine,1.0,0.759,0.759
+228,,COc1ccc(N(C)C)cc1,CC#N,NHE,amine,0.84,0.599,0.599
+229,,COc1ccccc1N(C)C,CC#N,NHE,amine,0.99,0.749,0.749
+231,,Nc1cccc2ccccc12,CC#N,NHE,amine,0.85,0.609,0.5745
+232,,Nc2ccc1ccccc1c2,CC#N,NHE,amine,0.95,0.709,0.709
+233,,c2ccc(Nc1ccccc1)cc2,CC#N,NHE,amine,1.24,0.999,0.999
+234,"1,4-diazabicyclo[2.2.2]octane",C1CN2CCN1CC2,CC#N,NHE,amine,0.81,0.5690000000000001,0.5690000000000001
+235,,C1CN3CN2CN1CN2C3,CC#N,NHE,amine,0.8,0.559,0.559
+236,,CN(C)C1=CCCCC1,CC#N,NHE,amine,0.66,0.41900000000000004,0.41900000000000004
+237,,CC1=C(N(C)C)C(C)CCC1,CC#N,NHE,amine,0.62,0.379,0.379
+238,,C=C(c1ccccc1)N(C)C,CC#N,NHE,amine,0.94,0.699,0.699
+239,,C=C(N(C)C)N(C)C,CC#N,NHE,amine,0.72,0.479,0.479
+240,,C/C=C(N(C)C)/N(C)C,CC#N,NHE,amine,0.47,0.22899999999999998,0.22899999999999998
+242,,CN(C)/C(=C(F)\F)N(C)C,CC#N,NHE,amine,0.94,0.699,0.699
+243,,CN(C)/C(=C(Cl)\Cl)N(C)C,CC#N,NHE,amine,0.76,0.519,0.519
+246,,C=C(C(=C)N(C)C)N(C)C,CC#N,NHE,amine,0.82,0.579,0.579
+253,,OC12CC3CC(CC(C3)C1)C2,CC#N,NHE,alcohol and ester,2.69,2.449,2.449
+254,,OCC12CC3CC(CC(C3)C1)C2,CC#N,NHE,alcohol and ester,2.72,2.479,2.479
+255,,C=COCC,CC#N,NHE,alcohol and ester,2.14,1.899,1.899
+256,,COc1cccc(OC)c1OC,CC#N,NHE,alcohol and ester,1.66,1.419,1.419
+257,,COc1ccc(OC)c(OC)c1,CC#N,NHE,alcohol and ester,1.36,1.1190000000000002,1.1190000000000002
+258,,COc1cc(OC)cc(OC)c1,CC#N,NHE,alcohol and ester,1.73,1.4889999999999999,1.4889999999999999
+259,,COc2ccc(C1CC1)cc2,CC#N,NHE,alcohol and ester,1.59,1.3490000000000002,1.3490000000000002
+260,,COC1CC1c2ccccc2,CC#N,NHE,alcohol and ester,1.7,1.459,1.459
+261,,O(C)C12CC3CC(CC(C3)C1)C2,CC#N,NHE,alcohol and ester,2.62,2.379,2.379
+262,,CCc1ccc(OC)cc1,CC#N,NHE,alcohol and ester,1.7,1.459,1.459
+263,,c2ccc1OCOc1c2,CC#N,NHE,alcohol and ester,1.66,1.419,1.419
+264,,CC(=O)c1cc(C)c(C)cc1C,CC#N,NHE,,2.19,1.9489999999999998,1.9489999999999998
+265,,O=C(O)c2ccc1OCOc1c2,CC#N,NHE,,1.87,1.629,1.629
+266,,O=Cc2ccc1OCOc1c2,CC#N,NHE,,1.89,1.649,1.649
+267,,COc1ccc(CC(=O)O)cc1,CC#N,NHE,,1.81,1.569,1.569
+268,,CC(=O)C(C)(C)C,CC#N,NHE,,2.66,2.419,2.419
+270,,CC(C)C(=O)C(C)C,CC#N,NHE,,2.64,2.399,2.399
+271,,O=COc1ccccc1,CC#N,NHE,,2.21,1.9689999999999999,1.9689999999999999
+272,,Clc2ccc(C1CC1)cc2,CC#N,NHE,,2.21,1.9689999999999999,1.9689999999999999
+273,p-Chlorotoluene,Cc1ccc(Cl)cc1,CC#N,NHE,,2.33,2.089,2.089
+276,,CC(=O)N(C)C,CC#N,NHE,amide,2.33,2.089,2.089
+277,,CN(C)C(=O)c1ccccc1,CC#N,NHE,amide,2.28,2.0389999999999997,2.0389999999999997
+278,,CC(=O)N1CCCCC1,CC#N,NHE,amide,2.12,1.879,1.879
+279,,COC(=O)N1CCCCC1,CC#N,NHE,amide,2.2,1.959,1.959
+308,pyrrole,[nH]1cccc1,CC#N,NHE,heterocycle,1.33,1.089,1.089
+309,pyridine,c1ccncc1,CC#N,NHE,heterocycle,2.39,2.149,2.149
+311,,CC(C)(C)c1ccc[nH]1,CC#N,NHE,heterocycle,1.36,1.1190000000000002,1.1190000000000002
+312,,O=N(=O)c1ccn(=O)cc1,CC#N,NHE,heterocycle,2.37,2.129,2.129
+313,,N#Cc1ccn(=O)cc1,CC#N,NHE,heterocycle,2.51,2.2689999999999997,2.2689999999999997
+314,,N#Cc1cccn(=O)c1,CC#N,NHE,heterocycle,2.25,2.009,2.009
+315,,O=n1ccc(Cl)cc1,CC#N,NHE,heterocycle,2.03,1.7889999999999997,1.7889999999999997
+316,,O=n1ccccc1,CC#N,NHE,heterocycle,2.04,1.799,1.799
+317,,Cc1ccn(=O)cc1,CC#N,NHE,heterocycle,1.85,1.609,1.609
+318,,Cc1cccn(=O)c1,CC#N,NHE,heterocycle,2.03,1.7889999999999997,1.7889999999999997
+319,,COc1ccn(=O)cc1,CC#N,NHE,heterocycle,1.6,1.359,1.359
+320,,CN(C)c1ccn(=O)cc1,CC#N,NHE,heterocycle,1.0,0.759,0.759
+321,,CC(=O)Nc1ccn(=O)cc1,CC#N,NHE,heterocycle,1.56,1.319,1.319
+322,,COc1cccn(=O)c1,CC#N,NHE,heterocycle,1.96,1.7189999999999999,1.7189999999999999
+323,,O=n1cccc(Cl)c1,CC#N,NHE,heterocycle,2.14,1.899,1.899
+324,,CCOC(=O)c1cccn(=O)c1,CC#N,NHE,heterocycle,2.16,1.919,1.919
+325,,CCOC(=O)c1ccn(=O)cc1,CC#N,NHE,heterocycle,2.22,1.979,1.979
+326,,CCc1ccn(=O)cc1,CC#N,NHE,heterocycle,1.81,1.569,1.569
+327,,c2c[nH]c(c1ccc[nH]1)c2,CC#N,NHE,heterocycle,0.84,0.599,0.599
+328,,Cc2ccc(c1ccc[nH]1)[nH]2,CC#N,NHE,heterocycle,0.7,0.45899999999999996,0.45899999999999996
+329,,Cc2ccc(c1ccc(C)[nH]1)[nH]2,CC#N,NHE,heterocycle,0.54,0.29900000000000004,0.29900000000000004
+330,,Cc2nc1ccccc1[nH]2,CC#N,NHE,heterocycle,1.62,1.379,1.379
+331,,c2ccc1ncccc1c2,CC#N,NHE,heterocycle,2.24,1.999,1.999
+332,,CN(C)N,CC#N,NHE,,0.43,0.189,0.189
+333,,CN(C)N(C)C,CC#N,NHE,,0.52,0.279,0.279
+334,,CCN(C)N(C)C,CC#N,NHE,,0.51,0.269,0.269
+335,,CCCN(C)N(C)C,CC#N,NHE,,0.51,0.269,0.269
+336,,CCCCN(C)N(C)C,CC#N,NHE,,0.51,0.269,0.269
+337,,CCN(CC)N(C)C,CC#N,NHE,,0.5,0.259,0.259
+338,,CCCN(CCC)N(C)C,CC#N,NHE,,0.49,0.249,0.249
+339,,CCN(C)N(C)CC,CC#N,NHE,,0.5,0.259,0.259
+340,,CN(C)N(C)C(C)(C)C,CC#N,NHE,,0.68,0.43900000000000006,0.43900000000000006
+341,,CN(N(C)C(C)(C)C)C(C)(C)C,CC#N,NHE,,0.76,0.519,0.519
+342,,CN(C)N1CCCC1,CC#N,NHE,,0.36,0.119,0.119
+343,,CN(C)N1CCCCC1,CC#N,NHE,,0.55,0.30900000000000005,0.30900000000000005
+345,,C2CCN(N1CCCC1)CC2,CC#N,NHE,,0.39,0.14900000000000002,0.14900000000000002
+349,,C[C@@H]1CC[C@H](C)N(C)N1C,CC#N,NHE,,0.39,0.14900000000000002,0.14900000000000002
+350,,CN1CCCCN1C,CC#N,NHE,,0.42,0.179,0.179
+351,,CN1CC=CCN1C,CC#N,NHE,,0.52,0.279,0.279
+352,,C2CCN1CCCCN1C2,CC#N,NHE,,0.47,0.22899999999999998,0.22899999999999998
+353,,C2=CCN1CC=CCN1C2,CC#N,NHE,,0.54,0.29900000000000004,0.29900000000000004
+354,,CCN1COCN1CC,CC#N,NHE,,0.8,0.559,0.559
+355,,CN1CN(C)N(C)CN1C,CC#N,NHE,,0.56,0.31900000000000006,0.31900000000000006
+356,,C1CC2CC1N=N2,CC#N,NHE,,2.21,1.9689999999999999,1.9689999999999999
+357,,CC1(C)C2CCC1N=N2,CC#N,NHE,,2.09,1.8489999999999998,1.8489999999999998
+358,,CC12CCC(C)(C1)N=N2,CC#N,NHE,,1.83,1.589,1.589
+359,,C1CC2CCC1N=N2,CC#N,NHE,,1.69,1.4489999999999998,1.4489999999999998
+360,,CC12CCC(C)(CC1)N=N2,CC#N,NHE,,1.58,1.339,1.339
+361,,COC(=O)C1(C)CC(C)(C)N=N1,CC#N,NHE,,2.29,2.049,2.049
+362,,C1=CC2CC1C3N=NC23,CC#N,NHE,,2.54,2.299,2.299
+363,,CN(C)/N=N/N(C)C,CC#N,NHE,,0.65,0.40900000000000003,0.40900000000000003
+364,,CCN(CC)/N=N/N(CC)CC,CC#N,NHE,,0.56,0.31900000000000006,0.31900000000000006
+365,anthracene,c1ccc2cc3ccccc3cc2c1,CC#N,Fc/Fc+,,0.886,1.286,1.1880000000000002
+366,benz[a]anthracene,c1ccc2cc3c(ccc4ccccc34)cc2c1,CC#N,Fc/Fc+,,0.961,1.361,1.2705
+367,benzo[b]chrysene,c1ccc2cc3c(ccc4c5ccccc5ccc34)cc2c1,CC#N,Fc/Fc+,,0.782,1.182,1.096
+368,benzo[ghi]perylene,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,CC#N,Fc/Fc+,,0.842,1.242,1.126
+369,benzo[a]pyrene,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,CC#N,Fc/Fc+,,0.712,1.112,1.026
+370,benzo[e]pyrene,c1ccc2c(c1)c3cccc4ccc5cccc2c5c34,CC#N,Fc/Fc+,,1.042,1.4420000000000002,1.356
+371,benzo[b]triphenylene,c1ccc2cc3c4ccccc4c5ccccc5c3cc2c1,CC#N,Fc/Fc+,,1.022,1.4220000000000002,1.336
+372,chrysene,c1ccc2c(c1)ccc3c4ccccc4ccc23,CC#N,Fc/Fc+,,1.151,1.5510000000000002,1.4505000000000001
+373,coronene,c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67,CC#N,Fc/Fc+,,0.952,1.3519999999999999,1.291
+374,"dibenz[a,h]anthracene",c1ccc2c(c1)ccc3cc4c(ccc5ccccc45)cc23,CC#N,Fc/Fc+,,0.97,1.37,1.28
+375,"dibenz[a,j]anthracene",c1ccc2c(c1)ccc3cc4ccc5ccccc5c4cc23,CC#N,Fc/Fc+,,1.032,1.432,1.346
+376,"dibenzo[a,e]pyrene",c1ccc2c(c1)cc3c4ccccc4c5cccc6ccc2c3c56,CC#N,Fc/Fc+,,0.782,1.182,1.096
+377,"9,10-dimethylanthracene",Cc1c2ccccc2c(C)c3ccccc13,CC#N,Fc/Fc+,,0.646,1.046,0.958
+378,"7,12-dimethylbenz[a]anthracene",Cc1c2ccccc2c(C)c3c4ccccc4ccc13,CC#N,Fc/Fc+,,0.732,1.1320000000000001,1.0173333333333334
+379,"2,3-dimethylnaphthalene",Cc1cc2ccccc2cc1C,CC#N,Fc/Fc+,,1.122,1.5220000000000002,1.4360000000000002
+380,"2,6-dimethylnaphthalene",Cc1ccc2cc(C)ccc2c1,CC#N,Fc/Fc+,,1.132,1.532,1.4460000000000002
+381,fluoranthene,c1ccc2c(c1)c3cccc4cccc2c34,CC#N,Fc/Fc+,,1.222,1.6219999999999999,1.536
+382,9-methylanthracene,Cc1c2ccccc2cc3ccccc13,CC#N,Fc/Fc+,,0.732,1.1320000000000001,1.046
+383,3-methylcholanthrene,Cc1ccc2cc3c(ccc4ccccc34)c5CCc1c25,CC#N,Fc/Fc+,,0.642,1.042,0.956
+384,2-methylnaphthalene,Cc1ccc2ccccc2c1,CC#N,Fc/Fc+,,1.222,1.6219999999999999,1.536
+385,naphthacene,c1ccc2cc3cc4ccccc4cc3cc2c1,CC#N,Fc/Fc+,,0.537,0.937,0.8535
+386,perylene,c1cc2cccc3c4cccc5cccc(c(c1)c23)c45,CC#N,Fc/Fc+,,0.609,1.009,0.9295
+387,phenanthrene,c1ccc2c(c1)ccc3ccccc23,CC#N,Fc/Fc+,,1.327,1.7269999999999999,1.6135
+388,picene,c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc34,CC#N,Fc/Fc+,,1.102,1.5020000000000002,1.4160000000000001
+389,pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,CC#N,Fc/Fc+,,0.893,1.2930000000000001,1.2265000000000001
+390,triphenylene,c1ccc2c(c1)c3ccccc3c4ccccc24,CC#N,Fc/Fc+,,1.377,1.7770000000000001,1.6635
+391,2-Aminoanthracene,Nc1ccc2cc3ccccc3cc2c1,CC#N,SCE,,0.44,0.44,0.44
+392,2-Fluorenamine,Nc1ccc2c(Cc3ccccc23)c1,CC#N,SCE,,0.53,0.53,0.53
+393,2-Naphthylamine,Nc1ccc2ccccc2c1,CC#N,SCE,,0.64,0.64,0.64
+394,Azulene,c1ccc2cccc2cc1,CC#N,SCE,,0.71,0.71,0.71
+395,"12-Methyl-1,2-benz-anthracene",Cc1c2ccccc2cc3ccc4ccccc4c13,CC#N,SCE,,1.07,1.07,1.07
+396,"7-Methyl-1,2-benz-anthracene",Cc1c2ccccc2cc3c4ccccc4ccc13,CC#N,SCE,,1.08,1.08,1.08
+397,"8-Methyl-1,2-benz-anthracene",Cc1cccc2cc3c(ccc4ccccc34)cc12,CC#N,SCE,,1.13,1.13,1.13
+398,"1-Methyl-1,2-benz-anthracene",Cc1cccc2ccc3cc4ccccc4cc3c12,CC#N,SCE,,1.14,1.14,1.14
+399,"2-Methyl-1,2-benz-anthracene",Cc1ccc2ccc3cc4ccccc4cc3c2c1,CC#N,SCE,,1.14,1.14,1.14
+400,"3-Methyl-1,2-benz-anthracene",Cc1ccc2c(ccc3cc4ccccc4cc23)c1,CC#N,SCE,,1.14,1.14,1.14
+401,"10-Methyl-1,2-benz-anthracene",Cc1ccc2cc3ccc4ccccc4c3cc2c1,CC#N,SCE,,1.14,1.14,1.14
+402,"11-Methyl-1,2-benz-anthracene",Cc1cccc2cc3ccc4ccccc4c3cc12,CC#N,SCE,,1.14,1.14,1.14
+403,"4-Methyl-1,2-benz-anthracene",Cc1cccc2c1ccc3cc4ccccc4cc23,CC#N,SCE,,1.15,1.15,1.15
+404,"5-Methyl-1,2-benz-anthracene",Cc1cc2cc3ccccc3cc2c4ccccc14,CC#N,SCE,,1.15,1.15,1.15
+405,"6-Methyl-1,2-benz-anthracene",Cc1cc2ccccc2c3cc4ccccc4cc13,CC#N,SCE,,1.15,1.15,1.15
+406,"9-Methyl-1,2-benz-anthracene",Cc1ccc2cc3c(ccc4ccccc34)cc2c1,CC#N,SCE,,1.15,1.15,1.15
+407,"1,2,3,4-Dibenzpyrene",c1ccc2c(c1)cc3ccc4cccc5c6ccccc6c2c3c45,CC#N,SCE,,1.15,1.15,1.15
+408,Acenaphthalene,c1cc2cccc3C=Cc(c1)c23,CC#N,SCE,,1.21,1.21,1.21
